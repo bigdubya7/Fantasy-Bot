@@ -4,18 +4,7 @@ Created on Wed Nov 25 15:03:46 2020
 
 @author: 19795
 """
-#
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        WESLEY MAFFETT
-#               MARC MARTINEZ
-#               JOSE REAL
-# Section:      542 TEAM F
-# Assignment:   Final Project
-# Date:         30 NOVEMBER 2020
-#
+
 
 #Purpose and set of instructions:
 print("Welcome! I am the Fantasy Football Assistant.")
